@@ -1,6 +1,7 @@
 # dbl
 
 #### 项目介绍
+  基于ssm框架搭建一个web开发平台 主要运用技术：freemaker,vue.js,mybitats,springMVC 等
 
 #### 软件架构
 软件架构说明
